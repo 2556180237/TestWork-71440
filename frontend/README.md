@@ -1,3 +1,5 @@
+Для разнообразия добавил возможность менять данные через contenteditable прям на странице вывода данных. Надо просто нажать на текст
+
 # frontend
 
 This template should help get you started developing with Vue 3 in Vite.
