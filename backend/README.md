@@ -1,4 +1,4 @@
-* Создайте базу данных припишите в .env
+* Создайте базу данных пропишите в .env
 * composer install
 * php artisan migrate
 * php artisan test
